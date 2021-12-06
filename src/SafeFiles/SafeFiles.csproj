@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+    <LangVersion>10</LangVersion>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>SafeFiles</PackageId>
+    <PackageProjectUrl>https://github.com/ilyalatt/SafeFiles</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Description>A simple API for .part file workflow</Description>
+    <Authors>ilyalatt</Authors>
+
+    <VersionPrefix>0.1.1</VersionPrefix>
+  </PropertyGroup>
+
+</Project>
